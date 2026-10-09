@@ -1,0 +1,11 @@
+{
+  "yaml_parse": "PASS",
+  "configured_checks": "PASS",
+  "local_verification_command": "PASS",
+  "github_actions_execution": "NOT_RUN",
+  "actions": [
+    "actions/checkout@v4",
+    "actions/setup-python@v5",
+    "actions/setup-node@v4"
+  ]
+}

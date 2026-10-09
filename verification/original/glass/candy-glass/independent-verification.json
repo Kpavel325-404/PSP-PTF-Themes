@@ -1,0 +1,13 @@
+{
+  "file": "Candy-Glass.ptf",
+  "reader": "PTF Studio 1.0 independent reader + Skia BMP decoder",
+  "decodedAssets": 74,
+  "metadata": {
+    "title": "Candy Glass - KP",
+    "productId": "KP_CANDY_GLASS",
+    "version": "1.0",
+    "firmware": "6.20",
+    "color": 6
+  },
+  "failures": []
+}

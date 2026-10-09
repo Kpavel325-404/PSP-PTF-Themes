@@ -1,0 +1,87 @@
+{
+  "status": "PASS",
+  "rebuilt_at": "2026-10-09T11:29:21.111106+00:00",
+  "theme_count": 9,
+  "byte_identical_rebuild": true,
+  "environment": {
+    "python": "3.12.14",
+    "pillow": "12.3.0",
+    "numpy": "2.3.5",
+    "node": "v24.19.0"
+  },
+  "hardware_test": "NOT_RUN",
+  "themes": [
+    {
+      "file": "Aero-Vista-Aurora.ptf",
+      "status": "PASS",
+      "sha256": "147462961418ea835b0fe47125ba84121d76f4435874be6e5765c36aee25908f",
+      "bytes": 460748,
+      "byte_identical": true,
+      "graphics_stage": "prepared indexed PNG artwork"
+    },
+    {
+      "file": "Candy-Glass.ptf",
+      "status": "PASS",
+      "sha256": "f11a3d5dac1ea6fa6f53ba70e7937a11e6d87040554ff5f57eee2f0ab6c1f51f",
+      "bytes": 471368,
+      "byte_identical": true,
+      "graphics_stage": "prepared indexed PNG artwork"
+    },
+    {
+      "file": "Eesti-Retro-80-90ndad.ptf",
+      "status": "PASS",
+      "sha256": "c2fd6cc0671b9856021ec03f0be95cc8b451438fe7d8b56a5861fd2fbb8c7307",
+      "bytes": 412060,
+      "byte_identical": true,
+      "graphics_stage": "prepared indexed PNG artwork"
+    },
+    {
+      "file": "KP-Aero-Vibrant-Blue.ptf",
+      "status": "PASS",
+      "sha256": "b2c0f360163c61924a3643bccf4d762bb449c4f819d2cb60ba7f7ddd67d9883a",
+      "bytes": 435132,
+      "byte_identical": true,
+      "graphics_stage": "prepared indexed PNG artwork"
+    },
+    {
+      "file": "Windows_XP_Autumn.ptf",
+      "status": "PASS",
+      "sha256": "15f88106f731d8079247dacc04b5eb1b1d9c6890242ecbf93ee9968a60f9743b",
+      "bytes": 623500,
+      "byte_identical": true,
+      "graphics_stage": "redrawn icons and re-encoded GIM"
+    },
+    {
+      "file": "Winter_Moscow.ptf",
+      "status": "PASS",
+      "sha256": "e4a746de75476d7dd5e3d23d80587abb6e55167d05fe34c140cc538052077a0a",
+      "bytes": 485888,
+      "byte_identical": true,
+      "graphics_stage": "redrawn icons and re-encoded GIM"
+    },
+    {
+      "file": "Ocean_Frutiger_Aqua.ptf",
+      "status": "PASS",
+      "sha256": "c11b3814a33a7322674e524f521aea1f0e6b4050753087089d53aa46c9385bec",
+      "bytes": 573180,
+      "byte_identical": true,
+      "graphics_stage": "redrawn icons and re-encoded GIM"
+    },
+    {
+      "file": "Mac_OS_9_Platinum.ptf",
+      "status": "PASS",
+      "sha256": "9ca307492fdbc862cd8e095fb748be899da57f0a0456024bdf52510e5b46242f",
+      "bytes": 150396,
+      "byte_identical": true,
+      "graphics_stage": "redrawn icons and re-encoded GIM"
+    },
+    {
+      "file": "Mac_OS_X_10_Aqua.ptf",
+      "status": "PASS",
+      "sha256": "208f897d90828badee27890ad0ee4edc3b0b260d3408692bb4b00a5bb70ab54a",
+      "bytes": 368680,
+      "byte_identical": true,
+      "graphics_stage": "redrawn icons and re-encoded GIM"
+    }
+  ]
+}

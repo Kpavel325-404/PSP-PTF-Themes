@@ -1,0 +1,16 @@
+{
+  "generator": "Built-in imagegen",
+  "final_wallpapers": "User-supplied XP/Moscow; reference-adapted Ocean/Aqua; code-native Platinum",
+  "jobs": [
+    {
+      "key": "ocean_reference",
+      "path": "user-reference/Океан - Frutiger Aqua.jpg",
+      "prompt": "Use the attached image as the strong visual reference and adapt its composition into one beautiful WIDE 16:9 original PSP wallpaper, landscape 480:272 ratio. Preserve this specific Frutiger Aqua aesthetic: vivid cobalt sky, crystalline splashing clear water, several glossy transparent bubbles, bright yellow tropical butterflyfish, a small clean white eco-futurist city contained inside a large spherical glass bubble, fresh lime green leaves. Unlike the portrait reference, arrange the city-in-a-bubble in the RIGHT third, main bright yellow fish on lower RIGHT, restrained leaves at far right and lower edges, crystal water mainly along the bottom, several tiny bubbles. Keep LEFT and mid-left broad open rich medium/dark cobalt and turquoise blue with only gentle water gradients for PSP menu readability. Early 2000s glossy computer wallpaper / photomontage realism, optimistic, highly polished, faithful visual character to the reference, beautiful believable refraction and bright aquatic glass, not a literal underwater-only photograph. No text, no interface, no icons, no watermark, no device or frame. Full bleed, a single complete wallpaper."
+    },
+    {
+      "key": "osx_reference",
+      "path": "user-reference/Mac OS X 10 - Aqua.png",
+      "prompt": "The attached image is a low-resolution screenshot of original Mac OS X 10 Aqua circa 2001. Use ONLY its blue abstract desktop WALLPAPER appearance as reference. Create a clean new high-resolution landscape wallpaper in wide 16:9 480:272 proportions with all desktop windows, menu bar, dock, icons, widgets, logos and text removed. Match the early Aqua blue wallpaper: smooth broad cobalt and royal-blue flowing curves, sweeping medium-blue organic ribbon forms and dark blue curved fields, soft abstract layered shapes, a calm dark-ish blue LEFT and mid-left for white PSP menu text, modest pale-blue highlights on RIGHT. Faithful 2001 retro desktop aesthetic, soft gentle gradients, broad curves, not modern Windows-style glass panes, not sharp crystalline glass arcs, not modern macOS abstract mountains. No objects, no UI, no lettering, no Apple logo, no watermark, no frames. One complete full-bleed wallpaper."
+    }
+  ]
+}

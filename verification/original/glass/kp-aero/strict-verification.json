@@ -1,0 +1,22 @@
+{
+  "result": "PASS",
+  "file": "KP-Aero-Vibrant-Blue.ptf",
+  "size_bytes": 435132,
+  "maximum_bytes": 786432,
+  "groups": 5,
+  "records": 75,
+  "graphic_resources": 74,
+  "exact_rgba_roundtrips": 74,
+  "maximum_icon_colors": 256,
+  "maximum_focus_colors": 42,
+  "checks": [
+    "PTF/group/record boundaries",
+    "native slot IDs",
+    "zlib EOF and padding",
+    "BMP24 dimensions",
+    "P8 swizzle and RGBA8888 CLUT",
+    "white focus palette",
+    "exact pixels from independent decoder"
+  ],
+  "sha256": "b2c0f360163c61924a3643bccf4d762bb449c4f819d2cb60ba7f7ddd67d9883a"
+}

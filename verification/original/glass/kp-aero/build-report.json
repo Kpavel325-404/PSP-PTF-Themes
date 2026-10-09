@@ -1,0 +1,903 @@
+{
+  "title": "KP Aero - Vibrant Blue",
+  "file": "KP-Aero-Vibrant-Blue.ptf",
+  "product_id": "KP_AERO_VIBRANT_BLUE",
+  "version": "1.0",
+  "firmware_schema": "6.20",
+  "theme_color": 8,
+  "size_bytes": 435132,
+  "maximum_bytes": 786432,
+  "graphic_assets": 74,
+  "records": 75,
+  "sha256": "b2c0f360163c61924a3643bccf4d762bb449c4f819d2cb60ba7f7ddd67d9883a",
+  "assets": [
+    {
+      "obj": 0,
+      "sub": 0,
+      "label": "Theme preview icon",
+      "size": [
+        16,
+        16
+      ],
+      "palette": 106,
+      "raw_bytes": 1552,
+      "record_bytes": 780
+    },
+    {
+      "obj": 0,
+      "sub": 1,
+      "label": "Theme preview image",
+      "size": [
+        300,
+        170
+      ],
+      "palette": null,
+      "raw_bytes": 153054,
+      "record_bytes": 98732
+    },
+    {
+      "obj": 1,
+      "sub": 0,
+      "label": "Wallpaper",
+      "size": [
+        480,
+        272
+      ],
+      "palette": null,
+      "raw_bytes": 391734,
+      "record_bytes": 231868
+    },
+    {
+      "obj": 2,
+      "sub": 0,
+      "label": "Default",
+      "size": [
+        64,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 4368,
+      "record_bytes": 2188
+    },
+    {
+      "obj": 2,
+      "sub": 1,
+      "label": "Settings",
+      "size": [
+        64,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 4368,
+      "record_bytes": 2164
+    },
+    {
+      "obj": 2,
+      "sub": 2,
+      "label": "Photo",
+      "size": [
+        64,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 4368,
+      "record_bytes": 2076
+    },
+    {
+      "obj": 2,
+      "sub": 3,
+      "label": "Music",
+      "size": [
+        64,
+        48
+      ],
+      "palette": 254,
+      "raw_bytes": 4368,
+      "record_bytes": 1952
+    },
+    {
+      "obj": 2,
+      "sub": 4,
+      "label": "Video",
+      "size": [
+        64,
+        48
+      ],
+      "palette": 253,
+      "raw_bytes": 4368,
+      "record_bytes": 2132
+    },
+    {
+      "obj": 2,
+      "sub": 5,
+      "label": "TV",
+      "size": [
+        64,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 4368,
+      "record_bytes": 2000
+    },
+    {
+      "obj": 2,
+      "sub": 6,
+      "label": "Game",
+      "size": [
+        64,
+        48
+      ],
+      "palette": 255,
+      "raw_bytes": 4368,
+      "record_bytes": 2108
+    },
+    {
+      "obj": 2,
+      "sub": 7,
+      "label": "Network",
+      "size": [
+        64,
+        48
+      ],
+      "palette": 252,
+      "raw_bytes": 4368,
+      "record_bytes": 2256
+    },
+    {
+      "obj": 2,
+      "sub": 8,
+      "label": "Extras",
+      "size": [
+        64,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 4368,
+      "record_bytes": 2048
+    },
+    {
+      "obj": 3,
+      "sub": 2,
+      "label": "Memory Stick",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 3600,
+      "record_bytes": 1920
+    },
+    {
+      "obj": 3,
+      "sub": 3,
+      "label": "Memory Stick focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 24,
+      "raw_bytes": 5392,
+      "record_bytes": 516
+    },
+    {
+      "obj": 3,
+      "sub": 4,
+      "label": "UMD",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 253,
+      "raw_bytes": 3600,
+      "record_bytes": 2184
+    },
+    {
+      "obj": 3,
+      "sub": 5,
+      "label": "UMD focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 24,
+      "raw_bytes": 5392,
+      "record_bytes": 696
+    },
+    {
+      "obj": 3,
+      "sub": 6,
+      "label": "Camera",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 254,
+      "raw_bytes": 3600,
+      "record_bytes": 2000
+    },
+    {
+      "obj": 3,
+      "sub": 7,
+      "label": "Camera focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 31,
+      "raw_bytes": 5392,
+      "record_bytes": 616
+    },
+    {
+      "obj": 3,
+      "sub": 8,
+      "label": "Game Sharing",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 3600,
+      "record_bytes": 1904
+    },
+    {
+      "obj": 3,
+      "sub": 9,
+      "label": "Game Sharing focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 30,
+      "raw_bytes": 5392,
+      "record_bytes": 780
+    },
+    {
+      "obj": 3,
+      "sub": 10,
+      "label": "Saved Data Utility",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 255,
+      "raw_bytes": 3600,
+      "record_bytes": 1996
+    },
+    {
+      "obj": 3,
+      "sub": 11,
+      "label": "Saved Data Utility focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 21,
+      "raw_bytes": 5392,
+      "record_bytes": 496
+    },
+    {
+      "obj": 3,
+      "sub": 12,
+      "label": "UMD Update",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 254,
+      "raw_bytes": 3600,
+      "record_bytes": 2192
+    },
+    {
+      "obj": 3,
+      "sub": 13,
+      "label": "UMD Update focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 24,
+      "raw_bytes": 5392,
+      "record_bytes": 708
+    },
+    {
+      "obj": 3,
+      "sub": 14,
+      "label": "System Update",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 3600,
+      "record_bytes": 2108
+    },
+    {
+      "obj": 3,
+      "sub": 15,
+      "label": "System Update focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 23,
+      "raw_bytes": 5392,
+      "record_bytes": 644
+    },
+    {
+      "obj": 3,
+      "sub": 16,
+      "label": "USB Connection",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 3600,
+      "record_bytes": 1876
+    },
+    {
+      "obj": 3,
+      "sub": 17,
+      "label": "USB Connection focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 42,
+      "raw_bytes": 5392,
+      "record_bytes": 808
+    },
+    {
+      "obj": 3,
+      "sub": 18,
+      "label": "Video Settings",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 3600,
+      "record_bytes": 2208
+    },
+    {
+      "obj": 3,
+      "sub": 19,
+      "label": "Video Settings focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 26,
+      "raw_bytes": 5392,
+      "record_bytes": 684
+    },
+    {
+      "obj": 3,
+      "sub": 20,
+      "label": "Photo Settings",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 255,
+      "raw_bytes": 3600,
+      "record_bytes": 2056
+    },
+    {
+      "obj": 3,
+      "sub": 21,
+      "label": "Photo Settings focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 28,
+      "raw_bytes": 5392,
+      "record_bytes": 716
+    },
+    {
+      "obj": 3,
+      "sub": 22,
+      "label": "System Settings",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 254,
+      "raw_bytes": 3600,
+      "record_bytes": 2116
+    },
+    {
+      "obj": 3,
+      "sub": 23,
+      "label": "System Settings focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 34,
+      "raw_bytes": 5392,
+      "record_bytes": 724
+    },
+    {
+      "obj": 3,
+      "sub": 24,
+      "label": "Theme Settings",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 3600,
+      "record_bytes": 2184
+    },
+    {
+      "obj": 3,
+      "sub": 25,
+      "label": "Theme Settings focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 27,
+      "raw_bytes": 5392,
+      "record_bytes": 736
+    },
+    {
+      "obj": 3,
+      "sub": 26,
+      "label": "Date and Time",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 255,
+      "raw_bytes": 3600,
+      "record_bytes": 2160
+    },
+    {
+      "obj": 3,
+      "sub": 27,
+      "label": "Date and Time focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 23,
+      "raw_bytes": 5392,
+      "record_bytes": 664
+    },
+    {
+      "obj": 3,
+      "sub": 28,
+      "label": "Power Save Settings",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 3600,
+      "record_bytes": 1960
+    },
+    {
+      "obj": 3,
+      "sub": 29,
+      "label": "Power Save Settings focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 29,
+      "raw_bytes": 5392,
+      "record_bytes": 604
+    },
+    {
+      "obj": 3,
+      "sub": 30,
+      "label": "External Display",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 255,
+      "raw_bytes": 3600,
+      "record_bytes": 1948
+    },
+    {
+      "obj": 3,
+      "sub": 31,
+      "label": "External Display focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 35,
+      "raw_bytes": 5392,
+      "record_bytes": 720
+    },
+    {
+      "obj": 3,
+      "sub": 32,
+      "label": "Sound Settings",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 3600,
+      "record_bytes": 1928
+    },
+    {
+      "obj": 3,
+      "sub": 33,
+      "label": "Sound Settings focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 25,
+      "raw_bytes": 5392,
+      "record_bytes": 804
+    },
+    {
+      "obj": 3,
+      "sub": 34,
+      "label": "Security Settings",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 255,
+      "raw_bytes": 3600,
+      "record_bytes": 2036
+    },
+    {
+      "obj": 3,
+      "sub": 35,
+      "label": "Security Settings focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 24,
+      "raw_bytes": 5392,
+      "record_bytes": 664
+    },
+    {
+      "obj": 3,
+      "sub": 36,
+      "label": "RSS Channel Settings",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 252,
+      "raw_bytes": 3600,
+      "record_bytes": 2108
+    },
+    {
+      "obj": 3,
+      "sub": 37,
+      "label": "RSS Channel Settings focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 31,
+      "raw_bytes": 5392,
+      "record_bytes": 856
+    },
+    {
+      "obj": 3,
+      "sub": 38,
+      "label": "Network Settings",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 254,
+      "raw_bytes": 3600,
+      "record_bytes": 2196
+    },
+    {
+      "obj": 3,
+      "sub": 39,
+      "label": "Network Settings focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 22,
+      "raw_bytes": 5392,
+      "record_bytes": 692
+    },
+    {
+      "obj": 3,
+      "sub": 40,
+      "label": "Online Instruction Manuals",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 254,
+      "raw_bytes": 3600,
+      "record_bytes": 2196
+    },
+    {
+      "obj": 3,
+      "sub": 41,
+      "label": "Online Instruction Manuals focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 28,
+      "raw_bytes": 5392,
+      "record_bytes": 608
+    },
+    {
+      "obj": 3,
+      "sub": 42,
+      "label": "Remote Play",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 255,
+      "raw_bytes": 3600,
+      "record_bytes": 1980
+    },
+    {
+      "obj": 3,
+      "sub": 43,
+      "label": "Remote Play focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 35,
+      "raw_bytes": 5392,
+      "record_bytes": 720
+    },
+    {
+      "obj": 3,
+      "sub": 44,
+      "label": "Internet Radio",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 255,
+      "raw_bytes": 3600,
+      "record_bytes": 1976
+    },
+    {
+      "obj": 3,
+      "sub": 45,
+      "label": "Internet Radio focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 35,
+      "raw_bytes": 5392,
+      "record_bytes": 668
+    },
+    {
+      "obj": 3,
+      "sub": 46,
+      "label": "RSS Channel",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 3600,
+      "record_bytes": 2068
+    },
+    {
+      "obj": 3,
+      "sub": 47,
+      "label": "RSS Channel focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 27,
+      "raw_bytes": 5392,
+      "record_bytes": 868
+    },
+    {
+      "obj": 3,
+      "sub": 48,
+      "label": "Internet Browser",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 252,
+      "raw_bytes": 3600,
+      "record_bytes": 2228
+    },
+    {
+      "obj": 3,
+      "sub": 49,
+      "label": "Internet Browser focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 27,
+      "raw_bytes": 5392,
+      "record_bytes": 704
+    },
+    {
+      "obj": 3,
+      "sub": 50,
+      "label": "Internet Search",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 3600,
+      "record_bytes": 1912
+    },
+    {
+      "obj": 3,
+      "sub": 51,
+      "label": "Internet Search focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 28,
+      "raw_bytes": 5392,
+      "record_bytes": 724
+    },
+    {
+      "obj": 3,
+      "sub": 52,
+      "label": "Account Management",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 3600,
+      "record_bytes": 1908
+    },
+    {
+      "obj": 3,
+      "sub": 53,
+      "label": "Account Management focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 30,
+      "raw_bytes": 5392,
+      "record_bytes": 724
+    },
+    {
+      "obj": 3,
+      "sub": 54,
+      "label": "Default / Fallback",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 256,
+      "raw_bytes": 3600,
+      "record_bytes": 2128
+    },
+    {
+      "obj": 3,
+      "sub": 55,
+      "label": "Default / Fallback focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 25,
+      "raw_bytes": 5392,
+      "record_bytes": 608
+    },
+    {
+      "obj": 3,
+      "sub": 56,
+      "label": "Bluetooth Settings",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 253,
+      "raw_bytes": 3600,
+      "record_bytes": 2204
+    },
+    {
+      "obj": 3,
+      "sub": 57,
+      "label": "Bluetooth Settings focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 22,
+      "raw_bytes": 5392,
+      "record_bytes": 692
+    },
+    {
+      "obj": 3,
+      "sub": 58,
+      "label": "SensMe Channels",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 255,
+      "raw_bytes": 3600,
+      "record_bytes": 2144
+    },
+    {
+      "obj": 3,
+      "sub": 59,
+      "label": "SensMe Channels focus",
+      "size": [
+        64,
+        64
+      ],
+      "palette": 25,
+      "raw_bytes": 5392,
+      "record_bytes": 672
+    },
+    {
+      "obj": 4,
+      "sub": 0,
+      "label": "Settings detail",
+      "size": [
+        32,
+        32
+      ],
+      "palette": 256,
+      "raw_bytes": 2320,
+      "record_bytes": 1644
+    },
+    {
+      "obj": 4,
+      "sub": 1,
+      "label": "Settings detail focus",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 29,
+      "raw_bytes": 3600,
+      "record_bytes": 560
+    },
+    {
+      "obj": 4,
+      "sub": 2,
+      "label": "Settings detail",
+      "size": [
+        32,
+        32
+      ],
+      "palette": 252,
+      "raw_bytes": 2320,
+      "record_bytes": 1652
+    },
+    {
+      "obj": 4,
+      "sub": 3,
+      "label": "Settings detail focus",
+      "size": [
+        48,
+        48
+      ],
+      "palette": 25,
+      "raw_bytes": 3600,
+      "record_bytes": 548
+    }
+  ]
+}

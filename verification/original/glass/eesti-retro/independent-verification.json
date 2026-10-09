@@ -1,0 +1,13 @@
+{
+  "file": "Eesti-Retro-80-90ndad.ptf",
+  "reader": "PTF Studio 1.0 independent reader + Skia BMP decoder",
+  "decodedAssets": 74,
+  "metadata": {
+    "title": "Eesti Retro - 80-90ndad",
+    "productId": "KP_EESTI_RETRO_80_90NDAD",
+    "version": "1.0",
+    "firmware": "6.20",
+    "color": 10
+  },
+  "failures": []
+}

@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "size_bytes": 460748,
+  "maximum_bytes": 786432,
+  "groups": 5,
+  "records": 75,
+  "graphic_resources": 74,
+  "exact_rgba_roundtrips": 74,
+  "maximum_icon_colors": 255,
+  "maximum_focus_colors": 45,
+  "checks": [
+    "PTF/group/record boundaries",
+    "native slot IDs",
+    "zlib EOF and padding",
+    "BMP24 dimensions",
+    "P8 swizzle and RGBA8888 CLUT",
+    "white focus palette",
+    "exact pixels from independent decoder"
+  ],
+  "sha256": "147462961418ea835b0fe47125ba84121d76f4435874be6e5765c36aee25908f"
+}

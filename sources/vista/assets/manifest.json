@@ -1,0 +1,890 @@
+[
+  {
+    "obj": 0,
+    "sub": 0,
+    "label": "Theme preview icon",
+    "file": "0-00.png",
+    "size": [
+      16,
+      16
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON115_1.ico"
+  },
+  {
+    "obj": 0,
+    "sub": 1,
+    "label": "Theme preview image",
+    "file": "0-01.png",
+    "size": [
+      300,
+      170
+    ],
+    "focus": false,
+    "source": null
+  },
+  {
+    "obj": 1,
+    "sub": 0,
+    "label": "Aurora wallpaper",
+    "file": "1-00.png",
+    "size": [
+      480,
+      272
+    ],
+    "focus": false,
+    "source": "User-supplied Windows Vista Aurora"
+  },
+  {
+    "obj": 2,
+    "sub": 0,
+    "label": "Default",
+    "file": "2-00.png",
+    "size": [
+      64,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON115_1.ico"
+  },
+  {
+    "obj": 2,
+    "sub": 1,
+    "label": "Settings",
+    "file": "2-01.png",
+    "size": [
+      64,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON27_1.ico"
+  },
+  {
+    "obj": 2,
+    "sub": 2,
+    "label": "Photo",
+    "file": "2-02.png",
+    "size": [
+      64,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON21_1.ico"
+  },
+  {
+    "obj": 2,
+    "sub": 3,
+    "label": "Music",
+    "file": "2-03.png",
+    "size": [
+      64,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON108_1.ico"
+  },
+  {
+    "obj": 2,
+    "sub": 4,
+    "label": "Video",
+    "file": "2-04.png",
+    "size": [
+      64,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON23_1.ico"
+  },
+  {
+    "obj": 2,
+    "sub": 5,
+    "label": "TV",
+    "file": "2-05.png",
+    "size": [
+      64,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON109_1.ico"
+  },
+  {
+    "obj": 2,
+    "sub": 6,
+    "label": "Game",
+    "file": "2-06.png",
+    "size": [
+      64,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON14_1.ico"
+  },
+  {
+    "obj": 2,
+    "sub": 7,
+    "label": "Network",
+    "file": "2-07.png",
+    "size": [
+      64,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON25_1.ico"
+  },
+  {
+    "obj": 2,
+    "sub": 8,
+    "label": "Extras",
+    "file": "2-08.png",
+    "size": [
+      64,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON115_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 2,
+    "label": "Memory Stick",
+    "file": "3-02.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON36_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 3,
+    "label": "Memory Stick focus",
+    "file": "3-03.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 4,
+    "label": "UMD",
+    "file": "3-04.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON38_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 5,
+    "label": "UMD focus",
+    "file": "3-05.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 6,
+    "label": "Camera",
+    "file": "3-06.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON46_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 7,
+    "label": "Camera focus",
+    "file": "3-07.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 8,
+    "label": "Game Sharing",
+    "file": "3-08.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON178_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 9,
+    "label": "Game Sharing focus",
+    "file": "3-09.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 10,
+    "label": "Saved Data Utility",
+    "file": "3-10.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON166_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 11,
+    "label": "Saved Data Utility focus",
+    "file": "3-11.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 12,
+    "label": "UMD Update",
+    "file": "3-12.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON161_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 13,
+    "label": "UMD Update focus",
+    "file": "3-13.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 14,
+    "label": "Network Update",
+    "file": "3-14.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON184_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 15,
+    "label": "Network Update focus",
+    "file": "3-15.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 16,
+    "label": "USB Connection",
+    "file": "3-16.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON36_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 17,
+    "label": "USB Connection focus",
+    "file": "3-17.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 18,
+    "label": "Video Settings",
+    "file": "3-18.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON189_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 19,
+    "label": "Video Settings focus",
+    "file": "3-19.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 20,
+    "label": "Photo Settings",
+    "file": "3-20.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON168_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 21,
+    "label": "Photo Settings focus",
+    "file": "3-21.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 22,
+    "label": "System Settings",
+    "file": "3-22.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON114_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 23,
+    "label": "System Settings focus",
+    "file": "3-23.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 24,
+    "label": "Theme Settings",
+    "file": "3-24.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON197_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 25,
+    "label": "Theme Settings focus",
+    "file": "3-25.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 26,
+    "label": "Date and Time",
+    "file": "3-26.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON144_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 27,
+    "label": "Date and Time focus",
+    "file": "3-27.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 28,
+    "label": "Power Save Settings",
+    "file": "3-28.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON119_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 29,
+    "label": "Power Save Settings focus",
+    "file": "3-29.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 30,
+    "label": "External Display",
+    "file": "3-30.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON109_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 31,
+    "label": "External Display focus",
+    "file": "3-31.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 32,
+    "label": "Sound Settings",
+    "file": "3-32.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON176_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 33,
+    "label": "Sound Settings focus",
+    "file": "3-33.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 34,
+    "label": "Security Settings",
+    "file": "3-34.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON106_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 35,
+    "label": "Security Settings focus",
+    "file": "3-35.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 36,
+    "label": "RSS Channel Settings",
+    "file": "3-36.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON117_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 37,
+    "label": "RSS Channel Settings focus",
+    "file": "3-37.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 38,
+    "label": "Network Settings",
+    "file": "3-38.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON179_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 39,
+    "label": "Network Settings focus",
+    "file": "3-39.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 40,
+    "label": "Online Instruction Manuals",
+    "file": "3-40.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON101_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 41,
+    "label": "Online Instruction Manuals focus",
+    "file": "3-41.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 42,
+    "label": "Remote Play",
+    "file": "3-42.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON147_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 43,
+    "label": "Remote Play focus",
+    "file": "3-43.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 44,
+    "label": "Internet Radio",
+    "file": "3-44.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON108_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 45,
+    "label": "Internet Radio focus",
+    "file": "3-45.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 46,
+    "label": "RSS Channel",
+    "file": "3-46.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON117_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 47,
+    "label": "RSS Channel focus",
+    "file": "3-47.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 48,
+    "label": "Internet Browser",
+    "file": "3-48.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/shell32.dll/ICON16744_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 49,
+    "label": "Internet Browser focus",
+    "file": "3-49.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 50,
+    "label": "Internet Search",
+    "file": "3-50.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON177_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 51,
+    "label": "Internet Search focus",
+    "file": "3-51.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 52,
+    "label": "Account Management",
+    "file": "3-52.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON130_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 53,
+    "label": "Account Management focus",
+    "file": "3-53.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 54,
+    "label": "Default and model fallback",
+    "file": "3-54.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON181_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 55,
+    "label": "Default and model fallback focus",
+    "file": "3-55.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 56,
+    "label": "Bluetooth Settings",
+    "file": "3-56.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON179_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 57,
+    "label": "Bluetooth Settings focus",
+    "file": "3-57.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 3,
+    "sub": 58,
+    "label": "SensMe Channels",
+    "file": "3-58.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON22_1.ico"
+  },
+  {
+    "obj": 3,
+    "sub": 59,
+    "label": "SensMe Channels focus",
+    "file": "3-59.png",
+    "size": [
+      64,
+      64
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 4,
+    "sub": 0,
+    "label": "Settings detail",
+    "file": "4-00.png",
+    "size": [
+      32,
+      32
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON114_1.ico"
+  },
+  {
+    "obj": 4,
+    "sub": 1,
+    "label": "Settings detail focus",
+    "file": "4-01.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  },
+  {
+    "obj": 4,
+    "sub": 2,
+    "label": "Settings detail",
+    "file": "4-02.png",
+    "size": [
+      32,
+      32
+    ],
+    "focus": false,
+    "source": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON106_1.ico"
+  },
+  {
+    "obj": 4,
+    "sub": 3,
+    "label": "Settings detail focus",
+    "file": "4-03.png",
+    "size": [
+      48,
+      48
+    ],
+    "focus": true,
+    "source": "Focus derived from matching icon silhouette"
+  }
+]

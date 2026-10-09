@@ -1,0 +1,13 @@
+{
+  "file": "KP-Aero-Vibrant-Blue.ptf",
+  "reader": "PTF Studio 1.0 independent reader + Skia BMP decoder",
+  "decodedAssets": 74,
+  "metadata": {
+    "title": "KP Aero - Vibrant Blue",
+    "productId": "KP_AERO_VIBRANT_BLUE",
+    "version": "1.0",
+    "firmware": "6.20",
+    "color": 8
+  },
+  "failures": []
+}

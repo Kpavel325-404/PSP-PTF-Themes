@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 64 64"><defs>
+    <linearGradient id="body" x1="0" y1="0" x2=".28" y2="1">
+      <stop stop-color="#fff2d4"/><stop offset=".22" stop-color="#eec47a"/>
+      <stop offset=".55" stop-color="#8b602f"/><stop offset="1" stop-color="#eec47a"/>
+    </linearGradient>
+    <linearGradient id="chrome" x1="0" y1="0" x2=".18" y2="1">
+      <stop stop-color="#ffffff"/><stop offset=".38" stop-color="#c9e0ed"/>
+      <stop offset=".53" stop-color="#66829a"/><stop offset="1" stop-color="#e4f5ff"/>
+    </linearGradient>
+    <radialGradient id="shadow"><stop stop-color="#071627" stop-opacity=".45"/><stop offset="1" stop-color="#071627" stop-opacity="0"/></radialGradient>
+  </defs><ellipse cx="32" cy="55" rx="27" ry="7" fill="url(#shadow)"/><rect x="9" y="17" width="46" height="32" rx="5" fill="url(#body)" stroke="#fff2d4" stroke-width="1.4" stroke-linejoin="round"/><rect x="14" y="23" width="36" height="16" rx="4" fill="#142c43" stroke="#fff2d4" stroke-width="1"/><circle cx="23" cy="31" r="5.3" fill="url(#chrome)"/><circle cx="41" cy="31" r="5.3" fill="url(#chrome)"/><circle cx="23" cy="31" r="2.4" fill="#15304a"/><circle cx="41" cy="31" r="2.4" fill="#15304a"/><path d="M19 48L23 41H41L45 48Z" fill="url(#chrome)"/><circle cx="14" cy="21" r="1.1" fill="#f4fcff"/><circle cx="50" cy="21" r="1.1" fill="#f4fcff"/></svg>

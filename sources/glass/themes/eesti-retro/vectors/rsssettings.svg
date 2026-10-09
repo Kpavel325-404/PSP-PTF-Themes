@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 64 64"><defs>
+    <linearGradient id="body" x1="0" y1="0" x2=".28" y2="1">
+      <stop stop-color="#fff2d4"/><stop offset=".22" stop-color="#eec47a"/>
+      <stop offset=".55" stop-color="#8b602f"/><stop offset="1" stop-color="#eec47a"/>
+    </linearGradient>
+    <linearGradient id="chrome" x1="0" y1="0" x2=".18" y2="1">
+      <stop stop-color="#ffffff"/><stop offset=".38" stop-color="#c9e0ed"/>
+      <stop offset=".53" stop-color="#66829a"/><stop offset="1" stop-color="#e4f5ff"/>
+    </linearGradient>
+    <radialGradient id="shadow"><stop stop-color="#071627" stop-opacity=".45"/><stop offset="1" stop-color="#071627" stop-opacity="0"/></radialGradient>
+  </defs><ellipse cx="32" cy="55" rx="27" ry="7" fill="url(#shadow)"/><circle cx="16" cy="47" r="5" fill="url(#body)" stroke="#fff2d4" stroke-width="1.4" stroke-linejoin="round"/><path d="M11 28C25 28 36 39 36 53M11 11C34 11 53 30 53 53" fill="none" stroke="#8b602f" stroke-width="9"/><path d="M11 28C25 28 36 39 36 53M11 11C34 11 53 30 53 53" fill="none" stroke="url(#body)" stroke-width="6"/><g transform="translate(31,33) scale(.42)"><circle cx="32" cy="32" r="23" fill="#8b602f" stroke="#fff2d4" stroke-width="3"/><path d="M32.000,11.000 L34.741,11.180 L36.348,15.772 L38.429,16.479 L42.500,13.813 L44.784,15.340 L43.879,20.121 L45.328,21.773 L50.187,21.500 L51.401,23.964 L48.228,27.652 L48.656,29.807 L53.000,32.000 L52.820,34.741 L48.228,36.348 L47.521,38.429 L50.187,42.500 L48.660,44.784 L43.879,43.879 L42.227,45.328 L42.500,50.187 L40.036,51.401 L36.348,48.228 L34.193,48.656 L32.000,53.000 L29.259,52.820 L27.652,48.228 L25.571,47.521 L21.500,50.187 L19.216,48.660 L20.121,43.879 L18.672,42.227 L13.813,42.500 L12.599,40.036 L15.772,36.348 L15.344,34.193 L11.000,32.000 L11.180,29.259 L15.772,27.652 L16.479,25.571 L13.813,21.500 L15.340,19.216 L20.121,20.121 L21.773,18.672 L21.500,13.813 L23.964,12.599 L27.652,15.772 L29.807,15.344 Z" fill="url(#body)" stroke="#fff2d4" stroke-width="1.4" stroke-linejoin="round"/><circle cx="32" cy="32" r="10" fill="url(#chrome)" stroke="#627b92" stroke-width="1.8"/><circle cx="32" cy="32" r="4.8" fill="#8b602f" stroke="#fff2d4" stroke-width="1.5"/></g></svg>

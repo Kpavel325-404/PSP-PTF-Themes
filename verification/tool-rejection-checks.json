@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "case": "invalid_magic",
+      "result": "REJECTED",
+      "reason": "PTF v1 magic"
+    },
+    {
+      "case": "truncated_container",
+      "result": "REJECTED",
+      "reason": "PTF group extent"
+    },
+    {
+      "case": "trailing_data",
+      "result": "REJECTED",
+      "reason": "PTF trailing bytes"
+    },
+    {
+      "case": "nonzero_reserved_header",
+      "result": "REJECTED",
+      "reason": "PTF reserved fields"
+    }
+  ]
+}

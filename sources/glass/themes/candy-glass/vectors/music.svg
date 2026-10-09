@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 64 64"><defs>
+    <linearGradient id="body" x1="0" y1="0" x2=".28" y2="1">
+      <stop stop-color="#fff3ff"/><stop offset=".22" stop-color="#f3a0ce"/>
+      <stop offset=".55" stop-color="#766495"/><stop offset="1" stop-color="#f3a0ce"/>
+    </linearGradient>
+    <linearGradient id="chrome" x1="0" y1="0" x2=".18" y2="1">
+      <stop stop-color="#ffffff"/><stop offset=".38" stop-color="#c9e0ed"/>
+      <stop offset=".53" stop-color="#66829a"/><stop offset="1" stop-color="#e4f5ff"/>
+    </linearGradient>
+    <radialGradient id="shadow"><stop stop-color="#071627" stop-opacity=".45"/><stop offset="1" stop-color="#071627" stop-opacity="0"/></radialGradient>
+  </defs><ellipse cx="32" cy="55" rx="27" ry="7" fill="url(#shadow)"/><path d="M27 17L48 11V40C48 48 35 49 35 42C35 36 42 34 44 36V21L27 26V46C27 54 14 55 14 48C14 41 21 40 23 42V21Z" fill="url(#body)" stroke="#fff3ff" stroke-width="1.4" stroke-linejoin="round"/><path d="M27 18L45 13" fill="none" stroke="#f4fcff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>

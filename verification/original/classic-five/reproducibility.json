@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "byte_identical_rebuild": true,
+  "fixed_gim_timestamp": "Fri Oct 09 2026 09:45:00 UTC",
+  "files": {
+    "Mac_OS_X_10_Aqua.ptf": "208f897d90828badee27890ad0ee4edc3b0b260d3408692bb4b00a5bb70ab54a",
+    "Mac_OS_9_Platinum.ptf": "9ca307492fdbc862cd8e095fb748be899da57f0a0456024bdf52510e5b46242f",
+    "Windows_XP_Autumn.ptf": "15f88106f731d8079247dacc04b5eb1b1d9c6890242ecbf93ee9968a60f9743b",
+    "Winter_Moscow.ptf": "e4a746de75476d7dd5e3d23d80587abb6e55167d05fe34c140cc538052077a0a",
+    "Ocean_Frutiger_Aqua.ptf": "c11b3814a33a7322674e524f521aea1f0e6b4050753087089d53aa46c9385bec"
+  }
+}

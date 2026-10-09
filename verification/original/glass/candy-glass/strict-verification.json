@@ -1,0 +1,22 @@
+{
+  "result": "PASS",
+  "file": "Candy-Glass.ptf",
+  "size_bytes": 471368,
+  "maximum_bytes": 786432,
+  "groups": 5,
+  "records": 75,
+  "graphic_resources": 74,
+  "exact_rgba_roundtrips": 74,
+  "maximum_icon_colors": 256,
+  "maximum_focus_colors": 42,
+  "checks": [
+    "PTF/group/record boundaries",
+    "native slot IDs",
+    "zlib EOF and padding",
+    "BMP24 dimensions",
+    "P8 swizzle and RGBA8888 CLUT",
+    "white focus palette",
+    "exact pixels from independent decoder"
+  ],
+  "sha256": "f11a3d5dac1ea6fa6f53ba70e7937a11e6d87040554ff5f57eee2f0ab6c1f51f"
+}

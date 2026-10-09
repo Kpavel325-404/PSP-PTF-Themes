@@ -1,0 +1,27 @@
+vista: python3 build_theme.py
+{"title": "Aero Vista - Aurora", "product_id": "KP_AERO_VISTA_AURORA", "version": "1.0", "firmware_schema": "6.20", "theme_color": 7, "size_bytes": 460748, "maximum_bytes": 786432, "graphic_assets": 74, "records": 75, "sha256": "147462961418ea835b0fe47125ba84121d76f4435874be6e5765c36aee25908f"}
+
+glass: python3 source/build_themes.py
+[{"title": "KP Aero - Vibrant Blue", "file": "KP-Aero-Vibrant-Blue.ptf", "product_id": "KP_AERO_VIBRANT_BLUE", "version": "1.0", "firmware_schema": "6.20", "theme_color": 8, "size_bytes": 435132, "maximum_bytes": 786432, "graphic_assets": 74, "records": 75, "sha256": "b2c0f360163c61924a3643bccf4d762bb449c4f819d2cb60ba7f7ddd67d9883a"}, {"title": "Eesti Retro - 80-90ndad", "file": "Eesti-Retro-80-90ndad.ptf", "product_id": "KP_EESTI_RETRO_80_90NDAD", "version": "1.0", "firmware_schema": "6.20", "theme_color": 10, "size_bytes": 412060, "maximum_bytes": 786432, "graphic_assets": 74, "records": 75, "sha256": "c2fd6cc0671b9856021ec03f0be95cc8b451438fe7d8b56a5861fd2fbb8c7307"}, {"title": "Candy Glass - KP", "file": "Candy-Glass.ptf", "product_id": "KP_CANDY_GLASS", "version": "1.0", "firmware_schema": "6.20", "theme_color": 6, "size_bytes": 471368, "maximum_bytes": 786432, "graphic_assets": 74, "records": 75, "sha256": "f11a3d5dac1ea6fa6f53ba70e7937a11e6d87040554ff5f57eee2f0ab6c1f51f"}]
+
+classic-five: python3 source/build_assets.py
+Prepared Windows_XP_Autumn.ptf
+Prepared Winter_Moscow.ptf
+Prepared Ocean_Frutiger_Aqua.ptf
+Prepared Mac_OS_9_Platinum.ptf
+Prepared Mac_OS_X_10_Aqua.ptf
+
+classic-five: node source/gim_codec.js
+Encoded 70/355 graphics
+Encoded 140/355 graphics
+Encoded 210/355 graphics
+Encoded 280/355 graphics
+Encoded 350/355 graphics
+GIM encode/decode passed: 355 graphics
+
+classic-five: python3 source/build_ptf.py
+Windows_XP_Autumn.ptf 623500 bytes
+Winter_Moscow.ptf 485888 bytes
+Ocean_Frutiger_Aqua.ptf 573180 bytes
+Mac_OS_9_Platinum.ptf 150396 bytes
+Mac_OS_X_10_Aqua.ptf 368680 bytes

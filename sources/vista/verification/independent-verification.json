@@ -1,0 +1,12 @@
+{
+  "reader": "PTF Studio 1.0 independent PTF/GIM reader + Skia BMP decoder",
+  "decodedAssets": 74,
+  "metadata": {
+    "title": "Aero Vista - Aurora",
+    "productId": "KP_AERO_VISTA_AURORA",
+    "version": "1.0",
+    "firmware": "6.20",
+    "color": 7
+  },
+  "failures": []
+}

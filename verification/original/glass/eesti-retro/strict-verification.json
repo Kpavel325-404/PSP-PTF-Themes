@@ -1,0 +1,22 @@
+{
+  "result": "PASS",
+  "file": "Eesti-Retro-80-90ndad.ptf",
+  "size_bytes": 412060,
+  "maximum_bytes": 786432,
+  "groups": 5,
+  "records": 75,
+  "graphic_resources": 74,
+  "exact_rgba_roundtrips": 74,
+  "maximum_icon_colors": 256,
+  "maximum_focus_colors": 42,
+  "checks": [
+    "PTF/group/record boundaries",
+    "native slot IDs",
+    "zlib EOF and padding",
+    "BMP24 dimensions",
+    "P8 swizzle and RGBA8888 CLUT",
+    "white focus palette",
+    "exact pixels from independent decoder"
+  ],
+  "sha256": "c2fd6cc0671b9856021ec03f0be95cc8b451438fe7d8b56a5861fd2fbb8c7307"
+}

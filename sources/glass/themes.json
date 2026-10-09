@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "kp-aero",
+    "file": "KP-Aero-Vibrant-Blue.ptf",
+    "title": "KP Aero - Vibrant Blue",
+    "display_title": "KP Aero — Vibrant Blue",
+    "product_id": "KP_AERO_VIBRANT_BLUE",
+    "version": "1.0",
+    "theme_color": 8,
+    "accent": "#48c8ff",
+    "deep": "#075596",
+    "rim": "#c5f4ff",
+    "style": "aero",
+    "caption": "Лазурное стекло · серебро · мягкое свечение"
+  },
+  {
+    "slug": "eesti-retro",
+    "file": "Eesti-Retro-80-90ndad.ptf",
+    "title": "Eesti Retro - 80-90ndad",
+    "display_title": "Eesti Retro — 80–90ndad",
+    "product_id": "KP_EESTI_RETRO_80_90NDAD",
+    "version": "1.0",
+    "theme_color": 10,
+    "accent": "#eec47a",
+    "deep": "#8b602f",
+    "rim": "#fff2d4",
+    "style": "retro",
+    "caption": "Янтарный свет · кассета · эстонский ретроэфир"
+  },
+  {
+    "slug": "candy-glass",
+    "file": "Candy-Glass.ptf",
+    "title": "Candy Glass - KP",
+    "display_title": "Candy Glass",
+    "product_id": "KP_CANDY_GLASS",
+    "version": "1.0",
+    "theme_color": 6,
+    "accent": "#d1b4fb",
+    "deep": "#765999",
+    "rim": "#fff0ff",
+    "style": "candy",
+    "caption": "Мята · персик · лаванда · глянцевые формы"
+  }
+]

@@ -1,0 +1,27 @@
+name: Verify PTF themes
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install verification dependency
+        run: python -m pip install -r requirements.txt
+      - name: Check original hashes, PTF structure and every graphic
+        run: python tools/verify.py --output verification/ci-result.json
+      - name: Check packaged file hashes and documentation links
+        run: python tools/check_package.py

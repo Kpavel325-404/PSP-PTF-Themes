@@ -1,0 +1,57 @@
+[
+  {
+    "filename": "Windows_XP_Autumn.ptf",
+    "status": "PASS",
+    "bytes": 623500,
+    "sha256": "15f88106f731d8079247dacc04b5eb1b1d9c6890242ecbf93ee9968a60f9743b",
+    "records": 74,
+    "graphics": 73,
+    "independent_pixel_matches": 73,
+    "target": "PSP-3000 / FW 6.61",
+    "hardware_test": "NOT_RUN"
+  },
+  {
+    "filename": "Winter_Moscow.ptf",
+    "status": "PASS",
+    "bytes": 485888,
+    "sha256": "e4a746de75476d7dd5e3d23d80587abb6e55167d05fe34c140cc538052077a0a",
+    "records": 74,
+    "graphics": 73,
+    "independent_pixel_matches": 73,
+    "target": "PSP-3000 / FW 6.61",
+    "hardware_test": "NOT_RUN"
+  },
+  {
+    "filename": "Ocean_Frutiger_Aqua.ptf",
+    "status": "PASS",
+    "bytes": 573180,
+    "sha256": "c11b3814a33a7322674e524f521aea1f0e6b4050753087089d53aa46c9385bec",
+    "records": 74,
+    "graphics": 73,
+    "independent_pixel_matches": 73,
+    "target": "PSP-3000 / FW 6.61",
+    "hardware_test": "NOT_RUN"
+  },
+  {
+    "filename": "Mac_OS_9_Platinum.ptf",
+    "status": "PASS",
+    "bytes": 150396,
+    "sha256": "9ca307492fdbc862cd8e095fb748be899da57f0a0456024bdf52510e5b46242f",
+    "records": 74,
+    "graphics": 73,
+    "independent_pixel_matches": 73,
+    "target": "PSP-3000 / FW 6.61",
+    "hardware_test": "NOT_RUN"
+  },
+  {
+    "filename": "Mac_OS_X_10_Aqua.ptf",
+    "status": "PASS",
+    "bytes": 368680,
+    "sha256": "208f897d90828badee27890ad0ee4edc3b0b260d3408692bb4b00a5bb70ab54a",
+    "records": 74,
+    "graphics": 73,
+    "independent_pixel_matches": 73,
+    "target": "PSP-3000 / FW 6.61",
+    "hardware_test": "NOT_RUN"
+  }
+]

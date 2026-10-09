@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "archives": [
+    {
+      "archive": "PSP-Aero-Vista-Aurora-1.0.zip",
+      "bytes": 6417395,
+      "sha256": "0993efa31e566326571c3aa2d8afa4fc675d6d17baa2f4ce7dadd1424c34ce94",
+      "crc_test": "PASS"
+    },
+    {
+      "archive": "KP-Glass-Collection-PTF-1.0.zip",
+      "bytes": 9455794,
+      "sha256": "17a2b1602ab1873a0a5f09a347957286bfa065c6287d9e8daa669501d7e6d9b9",
+      "crc_test": "PASS"
+    },
+    {
+      "archive": "PSP_5_Themes_v1.0.zip",
+      "bytes": 4060710,
+      "sha256": "05814cb1df27fb5470318f1e1c16cf78ce1fac93c4efe7a3fad595625396afdd",
+      "crc_test": "PASS"
+    },
+    {
+      "archive": "PSP_5_Themes_Sources_v1.0.zip",
+      "bytes": 12937304,
+      "sha256": "4a3c10b79858d21dbf94dc6cc37db1847cf1ae2865920a97882c95f6fd15725c",
+      "crc_test": "PASS"
+    }
+  ],
+  "ptf_files_preserved_byte_for_byte": true
+}
